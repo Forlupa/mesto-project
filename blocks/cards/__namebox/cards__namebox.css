@@ -1,0 +1,5 @@
+.cards__namebox {
+  display: flex;
+  justify-content: space-between;
+  min-height: 79px;
+}
