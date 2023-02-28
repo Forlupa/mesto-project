@@ -12,13 +12,11 @@
 @media screen and (max-width: 950px) {
   .page {
     max-width: 581px;
-    justify-content: center;
   }
   }
 
   @media screen and (max-width: 645px) {
     .page {
       max-width: 282px;
-      justify-content: center;
     }
     }
