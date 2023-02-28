@@ -4,6 +4,8 @@
   height: 50px;
   margin-top: 48px;
   align-self: center;
+  border: none;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 645px) {

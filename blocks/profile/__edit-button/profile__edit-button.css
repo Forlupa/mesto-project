@@ -5,6 +5,7 @@
   align-self: end;
   transition: opacity .4s linear ;
   cursor: pointer;
+  border: none;
 }
 
 @media screen and (max-width: 950px) {
