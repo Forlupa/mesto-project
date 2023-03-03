@@ -1,4 +1,6 @@
 .cards__img {
-  object-fit: contain;
+  object-fit: cover;
+  height: 282px;
+  width: 282px;
   border-radius: 10px 10px 0 0;
 }

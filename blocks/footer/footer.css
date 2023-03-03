@@ -6,3 +6,9 @@
   justify-content: flex-start;
   align-self: start;
 }
+
+@media screen and (max-width: 645px) {
+  .footer {
+    padding: 48px 0 36px 19px;
+  }
+}

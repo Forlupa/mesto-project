@@ -1,12 +1,17 @@
 .popup__submit {
-  background: url(../../../images/submit-button.svg) no-repeat center/cover;
+  background-color: #000;
   width: 358px;
   height: 50px;
   margin-top: 48px;
-  align-self: center;
+  margin-bottom: 37px;
   border: none;
   cursor: pointer;
   transition: opacity .4s linear ;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: white;
 }
 
 .popup__submit:hover {
@@ -18,5 +23,8 @@
   .popup__submit {
     width: 238px;
     margin-top: 45px;
+    margin-bottom: 25px;
+    font-size: 14px;
+    line-height: 17px;
   }
   }

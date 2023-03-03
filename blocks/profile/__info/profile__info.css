@@ -9,6 +9,13 @@
 
 @media screen and (max-width: 950px) {
   .profile__info {
-    grid-gap: 14px 10px;
+    grid-gap: 8px 10px;
   }
   }
+
+@media screen and (max-width: 645px) {
+  .profile__info {
+    width: 282px;
+    grid-template-columns: 235px 37px;
+  }
+}
