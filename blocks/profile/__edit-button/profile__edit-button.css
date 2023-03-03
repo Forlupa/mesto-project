@@ -2,7 +2,7 @@
   background: url('../../../images/edit-button.svg') center/contain no-repeat;
   width: 24px;
   height: 24px;
-  align-self: end;
+  align-self: center;
   transition: opacity .4s linear ;
   cursor: pointer;
   border: none;
